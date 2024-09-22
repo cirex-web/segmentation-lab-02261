@@ -1,3 +1,3 @@
 All figure-generating and segmentation code is in `all.ipynb`.
 
-Generated figures are here: https://docs.google.com/presentation/d/1Qg8yiuMKwTo-ACW73m2McQL8O7NGSkGQ_ohywDvVVhA/edit?usp=sharing
+All figures can be found here: https://docs.google.com/document/d/1yw1aTM7q66G-1rWfko75EJ8-NKzhE9ZB-OU0HqMEW7Y/edit?usp=sharing
